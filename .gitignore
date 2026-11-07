@@ -1,0 +1,20 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Database files
+*.db
+*.sqlite
+
+# IDE settings
+.vscode/
+
+# Model files
+models/*.pkl
+
+*.csv
