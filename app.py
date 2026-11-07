@@ -5,7 +5,7 @@ from eda import plot_selected_columns
 from eda import plot_correlation
 from preprocessing import split_features_target,detect_problem_type, split_train_test,build_preprocessor
 from model import get_models, compare_models, select_best_model,save_best_model
-from tunning import hyperparameter,compare_tunning_models,select_best_model_tunning,save_best_model_tunning
+from tuning import hyperparameter,compare_tunning_models,select_best_model_tunning,save_best_model_tunning
 
 
 with st.sidebar:
