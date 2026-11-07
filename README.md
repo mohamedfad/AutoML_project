@@ -22,6 +22,7 @@ Watch the project demo:
 - Compare model performance.
 - Automatically select the best-performing model.
 - Hyperparameter Tuning to optimize model performance.
+- download the model(.pkl)
 
 ## Technologies Used
 
