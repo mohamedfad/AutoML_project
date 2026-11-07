@@ -37,6 +37,8 @@ Watch the project demo:
 AutoML_project/
 │
 ├── app.py
+├── eda
+├── model
 ├── preprocessing.py
 ├── tunning.py
 ├── requirements.txt
